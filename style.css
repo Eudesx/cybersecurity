@@ -29,3 +29,12 @@ ol {
 li {
     margin: 8px 0;
 }
+
+#data-warehouse-h1 {
+    text-align: center;
+}
+
+#data-warehouse-par {
+    text-align: justify;
+    text-indent: 20px;
+}
